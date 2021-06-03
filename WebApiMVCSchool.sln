@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiMVCSchool", "WebApiMVCSchool.csproj", "{988B99D6-6868-4627-A5AC-218AD012CDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988B99D6-6868-4627-A5AC-218AD012CDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988B99D6-6868-4627-A5AC-218AD012CDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988B99D6-6868-4627-A5AC-218AD012CDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988B99D6-6868-4627-A5AC-218AD012CDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6F2728-B565-400A-8C8F-062BD9B1F284}
+	EndGlobalSection
+EndGlobal
